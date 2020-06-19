@@ -1,0 +1,31 @@
+
+          --- Server Status ---
+Server Run Status:        Started
+Open Connections:         9
+
+          --- Server Details ---
+Host Name:                innolx4231
+Administrative Users:     cn=Directory Manager
+Administrative Users:     cn=newAdminUser
+Administrative Users:     uid=opendjadmin
+Installation Path:        /aap1/EB_20/SSO/opendj
+Version:                  OpenDJ Server 3.5.3
+Java Version:             1.8.0_212
+Administration Connector: Port 4444 (LDAPS)
+
+          --- Connection Handlers ---
+Address:Port : Protocol               : State
+-------------:------------------------:---------
+--           : LDIF                   : Disabled
+0.0.0.0:161  : SNMP                   : Disabled
+0.0.0.0:636  : LDAPS                  : Disabled
+0.0.0.0:1389 : LDAP (allows StartTLS) : Enabled
+0.0.0.0:1689 : JMX                    : Disabled
+0.0.0.0:8080 : HTTP                   : Disabled
+
+          --- Data Sources ---
+Base DN:     dc=bscseb20,dc=ericsson,dc=com
+Backend ID:  userRoot
+Entries:     47
+Replication:
+

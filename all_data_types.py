@@ -14,3 +14,4 @@ bool_x = True
 bytes_x = b"Hello"
 bytearray_x = bytearray(5)
 memoryview_x = memoryview(bytes(5))
+print (memoryview_x)
